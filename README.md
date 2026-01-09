@@ -14,7 +14,3 @@ Use the below commands to generate APKs
 - ./gradlew app:assembleDebug \
   -Ptarget=integration_test/app_test.dart
 -  popd                                                         
-
-After the APKs are 
-
-export PATH="$HOME/Documents/flutter/bin:$PATH"
